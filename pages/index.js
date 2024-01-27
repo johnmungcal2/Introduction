@@ -9,7 +9,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I'm John, a second-year computer engineering student. My hobbies include playing the piano and guitar, playing basketball with my friends, watching TV series, and learning coding. I took up computer engineering because I was fascinated by how hardware and software work together. In five years, I envision myself in a stable job, actively applying the principles of computer engineering, constantly learning, and contributing to innovative projects.</p>
+        <p>Hi, I'm John, a second-year computer engineering student. My hobbies include playing the piano and guitar, playing basketball with my friends, watching TV series, and learning coding. I took up computer engineering because I was fascinated by how hardware and software work together. In five years, I envision myself in a stable job, actively applying the principles of computer engineering, constantly learning, and contributing to innovative projects.</p>
         <ul className={utilStyles.list}>
           <li>• I expect this subject to help me improve my coding skills.</li>
           <li>• I expect to learn how to create interactive websites.</li>
