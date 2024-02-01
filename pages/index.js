@@ -13,8 +13,10 @@ export default function Home() {
         <ul className={utilStyles.list}>
           <li>• I expect this subject to help me improve my coding skills.</li>
           <li>• I expect to learn how to create interactive websites.</li>
-          <li>• Expecting it to teach me effective design techniques.</li>
+          <li>• I'm expecting to learn different front-end languages such as HTML, CSS, and JavaScript.</li>
+  
         </ul>
+        <p>*I successfully updated my website*</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
