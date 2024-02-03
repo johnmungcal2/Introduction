@@ -16,7 +16,7 @@ export default function Home() {
           <li>• I'm expecting to learn different front-end languages such as HTML, CSS, and JavaScript.</li>
   
         </ul>
-        <p>*I successfully updated my website*</p>
+        <p>I successfully updated my blogpage! (2/3/2024) </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
